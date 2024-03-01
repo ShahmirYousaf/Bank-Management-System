@@ -1,2 +1,2 @@
-# Bank-Management-System
-Bank Management System Project using Object Oriented Programming concepts and GUI.
+# Complaint-Management-System
+Complaint Management System Project using C++, OOP and Software Design Prinicples.
