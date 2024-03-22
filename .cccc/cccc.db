@@ -1,0 +1,323 @@
+CCCC_Module@Account@class@
+CCCC_ModExt@Account@class@Account.h@5@definition@FT??0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Module@Admin@class@
+CCCC_ModExt@Admin@class@Admin.h@4@definition@FT??0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Module@Administrator@class@
+CCCC_ModExt@Administrator@class@Administrator.h@19@definition@FT??0@LOC:13 COM:1 MVG:1@0@d@
+CCCC_Module@Complaint@class@
+CCCC_ModExt@Complaint@class@Complaint.h@8@definition@????2@LOC:3 COM:0 MVG:0@2@d@
+CCCC_Module@ComplaintDetails@class@
+CCCC_ModExt@ComplaintDetails@class@ComplaintDetails.h@14@definition@F???0@LOC:34 COM:0 MVG:4@0@d@
+CCCC_Module@Date@class@
+CCCC_ModExt@Date@class@Date.h@3@definition@T???2@LOC:7 COM:0 MVG:0@2@d@
+CCCC_Module@Department@class@
+CCCC_ModExt@Department@class@Department.h@10@definition@F???2@LOC:10 COM:1 MVG:0@2@d@
+CCCC_Module@Director@class@
+CCCC_ModExt@Director@class@Director.h@17@definition@F???0@LOC:24 COM:0 MVG:5@0@d@
+CCCC_Module@Employee@class@
+CCCC_ModExt@Employee@class@Employee.h@9@definition@FT??0@LOC:11 COM:1 MVG:0@0@d@
+CCCC_Module@EmployeeAddition@class@
+CCCC_ModExt@EmployeeAddition@class@EmployeeAddition.h@5@definition@F???0@LOC:14 COM:3 MVG:0@0@d@
+CCCC_Module@EmployeeRemoval@class@
+CCCC_ModExt@EmployeeRemoval@class@EmployeeRemoval.h@11@definition@F???0@LOC:23 COM:3 MVG:1@0@d@
+CCCC_Module@IReportGenerator@class@
+CCCC_ModExt@IReportGenerator@class@Report.h@4@definition@F??T2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Module@IUserAddition@class@
+CCCC_ModExt@IUserAddition@class@IUserAddition.h@3@definition@F??T2@LOC:5 COM:1 MVG:0@2@d@
+CCCC_Module@IUserRemoval@class@
+CCCC_ModExt@IUserRemoval@class@IUserRemoval.h@3@definition@F??T2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Module@InformationTechnology@class@
+CCCC_ModExt@InformationTechnology@class@IT.h@5@definition@FT??0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Module@Manager@class@
+CCCC_ModExt@Manager@class@Manager.h@11@definition@F???0@LOC:9 COM:0 MVG:0@0@d@
+CCCC_Module@ManagerAddition@class@
+CCCC_ModExt@ManagerAddition@class@ManagerAddition.h@4@definition@F???0@LOC:13 COM:0 MVG:2@0@d@
+CCCC_Module@ManagerRemoval@class@
+CCCC_ModExt@ManagerRemoval@class@ManagerRemoval.h@7@definition@F???0@LOC:17 COM:0 MVG:1@0@d@
+CCCC_Module@SummaryGenerator@class@
+CCCC_ModExt@SummaryGenerator@class@SummaryGenerator.h@12@definition@F???0@LOC:27 COM:0 MVG:3@0@d@
+CCCC_Module@System@class@
+CCCC_ModExt@System@class@system.h@18@definition@FT??2@LOC:9 COM:2 MVG:0@2@d@
+CCCC_Module@Teacher@class@
+CCCC_ModExt@Teacher@class@Teacher.h@11@definition@F???0@LOC:17 COM:0 MVG:0@0@d@
+CCCC_Module@TeacherAddition@class@
+CCCC_ModExt@TeacherAddition@class@TeacherAddition.h@10@definition@F???0@LOC:14 COM:3 MVG:0@0@d@
+CCCC_Module@TeacherRemoval@class@
+CCCC_ModExt@TeacherRemoval@class@TeacherRemoval.h@11@definition@F???0@LOC:23 COM:3 MVG:1@0@d@
+CCCC_Module@User@@
+CCCC_Module@anonymous@@
+CCCC_Module@char@builtin@
+CCCC_ModExt@char@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@double@builtin@
+CCCC_ModExt@double@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@float@builtin@
+CCCC_ModExt@float@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@int@builtin@
+CCCC_ModExt@int@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@long@builtin@
+CCCC_ModExt@long@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@string@@
+CCCC_Module@void@builtin@
+CCCC_ModExt@void@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Member@Account@Account@@()@
+CCCC_MemExt@Account@Account@@()@Account.h@8@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@Account@CreateInstance@@()@
+CCCC_MemExt@Account@CreateInstance@@()@Account.h@12@definition@FT??0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Admin@Admin@@()@
+CCCC_MemExt@Admin@Admin@@()@Admin.h@7@definition@F???0@LOC:3 COM:1 MVG:0@0@d@
+CCCC_Member@Admin@CreateInstance@@()@
+CCCC_MemExt@Admin@CreateInstance@@()@Admin.h@11@definition@FT??0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Administrator@Administrator@@()@
+CCCC_MemExt@Administrator@Administrator@@()@Administrator.h@54@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@Administrator@CreateUser@@()@
+CCCC_MemExt@Administrator@CreateUser@@()@Administrator.h@57@definition@FT??0@LOC:4 COM:1 MVG:1@0@d@
+CCCC_Member@Administrator@addEmployee@@()@
+CCCC_MemExt@Administrator@addEmployee@@()@Administrator.h@28@definition@F???2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Member@Administrator@addManager@@()@
+CCCC_MemExt@Administrator@addManager@@()@Administrator.h@33@definition@F???2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Member@Administrator@addTeacher@@()@
+CCCC_MemExt@Administrator@addTeacher@@()@Administrator.h@22@definition@F???2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Member@Administrator@removeEmployee@@()@
+CCCC_MemExt@Administrator@removeEmployee@@()@Administrator.h@43@definition@F???2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Member@Administrator@removeManager@@()@
+CCCC_MemExt@Administrator@removeManager@@()@Administrator.h@48@definition@F???2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Member@Administrator@removeTeacher@@()@
+CCCC_MemExt@Administrator@removeTeacher@@()@Administrator.h@38@definition@F???2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Member@Date@Date@@()@
+CCCC_MemExt@Date@Date@@()@Date.h@9@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Member@Date@Date@@(int,int,int)@
+CCCC_MemExt@Date@Date@@(int,int,int)@Date.h@15@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Member@Date@getDay@@()@
+CCCC_MemExt@Date@getDay@@()@Date.h@33@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@getMonth@@()@
+CCCC_MemExt@Date@getMonth@@()@Date.h@37@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@getYear@@()@
+CCCC_MemExt@Date@getYear@@()@Date.h@41@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@operator !=@@(const Date &)@
+CCCC_MemExt@Date@operator !=@@(const Date &)@Date.h@51@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@operator <@@(const Date &)@
+CCCC_MemExt@Date@operator <@@(const Date &)@Date.h@56@definition@T???0@LOC:8 COM:0 MVG:5@0@d@
+CCCC_Member@Date@operator <=@@(const Date &)@
+CCCC_MemExt@Date@operator <=@@(const Date &)@Date.h@70@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@operator ==@@(const Date &)@
+CCCC_MemExt@Date@operator ==@@(const Date &)@Date.h@46@definition@T???0@LOC:4 COM:1 MVG:3@0@d@
+CCCC_Member@Date@operator >@@(const Date &)@
+CCCC_MemExt@Date@operator >@@(const Date &)@Date.h@65@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@operator >=@@(const Date &)@
+CCCC_MemExt@Date@operator >=@@(const Date &)@Date.h@75@definition@T???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@setDay@@(int)@
+CCCC_MemExt@Date@setDay@@(int)@Date.h@21@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Date@setMonth@@(int)@
+CCCC_MemExt@Date@setMonth@@(int)@Date.h@25@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Date@setYear@@(int)@
+CCCC_MemExt@Date@setYear@@(int)@Date.h@29@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Department@Department@@()@
+CCCC_MemExt@Department@Department@@()@Department.h@20@definition@F???0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Director@Director@@()@
+CCCC_MemExt@Director@Director@@()@Director.h@31@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@Director@GenerateComplaintDetails@@()@
+CCCC_MemExt@Director@GenerateComplaintDetails@@()@Director.h@25@definition@F???2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Member@Director@GenerateSummary@@()@
+CCCC_MemExt@Director@GenerateSummary@@()@Director.h@20@definition@F???2@LOC:5 COM:0 MVG:0@2@d@
+CCCC_Member@Employee@CreateUser@@()@
+CCCC_MemExt@Employee@CreateUser@@()@Employee.h@19@definition@FT??0@LOC:4 COM:1 MVG:1@0@d@
+CCCC_Member@Employee@Employee@@()@
+CCCC_MemExt@Employee@Employee@@()@Employee.h@14@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@Employee@getID@@()@
+CCCC_MemExt@Employee@getID@@()@Employee.h@23@definition@FT??0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@IReportGenerator@GenerateReport@@(...)@
+CCCC_MemExt@IReportGenerator@GenerateReport@@(...)@Report.h@7@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@IUserAddition@AddUser@@()@
+CCCC_MemExt@IUserAddition@AddUser@@()@IUserAddition.h@6@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@IUserRemoval@RemoveUser@@()@
+CCCC_MemExt@IUserRemoval@RemoveUser@@()@IUserRemoval.h@6@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@InformationTechnology@CreateInstance@@()@
+CCCC_MemExt@InformationTechnology@CreateInstance@@()@IT.h@12@definition@FT??0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@InformationTechnology@InformationTechnology@@()@
+CCCC_MemExt@InformationTechnology@InformationTechnology@@()@IT.h@8@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@Manager@Manager@@()@
+CCCC_MemExt@Manager@Manager@@()@Manager.h@15@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@System@CreateDepartment@@(int)@
+CCCC_MemExt@System@CreateDepartment@@(int)@system.h@63@declaration@FT??0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_MemExt@System@CreateDepartment@@(int)@system.h@101@definition@FT???@LOC:14 COM:1 MVG:5@?@d@
+CCCC_Member@System@CreateUser@@(int)@
+CCCC_MemExt@System@CreateUser@@(int)@system.h@64@declaration@FT??0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_MemExt@System@CreateUser@@(int)@system.h@83@definition@FT???@LOC:18 COM:1 MVG:7@?@d@
+CCCC_Member@System@RunSystem@@(int,int)@
+CCCC_MemExt@System@RunSystem@@(int,int)@system.h@65@definition@FT??0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@System@RunValidation@@(int,const string &,const string &)@
+CCCC_MemExt@System@RunValidation@@(int,const string &,const string &)@system.h@69@definition@FT??0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@System@System@@(int)@
+CCCC_MemExt@System@System@@(int)@system.h@25@definition@FT??2@LOC:26 COM:0 MVG:7@2@d@
+CCCC_Member@System@getInstance@@(int)@
+CCCC_MemExt@System@getInstance@@(int)@system.h@55@definition@FT??0@LOC:8 COM:1 MVG:2@0@d@
+CCCC_Member@System@~System@@()@
+CCCC_MemExt@System@~System@@()@system.h@73@definition@FT??0@LOC:3 COM:4 MVG:0@0@d@
+CCCC_Member@Teacher@Teacher@@()@
+CCCC_MemExt@Teacher@Teacher@@()@Teacher.h@19@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@getPosition@@()@
+CCCC_MemExt@Teacher@getPosition@@()@Teacher.h@37@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Teacher@getTeacherID@@()@
+CCCC_MemExt@Teacher@getTeacherID@@()@Teacher.h@29@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Teacher@setPosition@@(string)@
+CCCC_MemExt@Teacher@setPosition@@(string)@Teacher.h@33@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@setTeacherID@@(int)@
+CCCC_MemExt@Teacher@setTeacherID@@(int)@Teacher.h@25@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@anonymous@AdminInputValidator@@(int)@
+CCCC_MemExt@anonymous@AdminInputValidator@@(int)@ControllerFunctions.h@127@definition@F????@LOC:10 COM:0 MVG:3@?@d@
+CCCC_Member@anonymous@AdminUI@@()@
+CCCC_MemExt@anonymous@AdminUI@@()@ControllerFunctions.h@117@definition@F????@LOC:10 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@ClearScreen@@()@
+CCCC_MemExt@anonymous@ClearScreen@@()@ControllerFunctions.h@11@definition@F????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@CountAccountComplains@@(...)@
+CCCC_MemExt@anonymous@CountAccountComplains@@(...)@ControllerFunctions.h@255@definition@F????@LOC:13 COM:0 MVG:2@?@d@
+CCCC_Member@anonymous@CountAccountComplains@@(complaints)@
+CCCC_MemExt@anonymous@CountAccountComplains@@(complaints)@SummaryGenerator.h@53@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@anonymous@CountAdminComplains@@(...)@
+CCCC_MemExt@anonymous@CountAdminComplains@@(...)@ControllerFunctions.h@240@definition@F????@LOC:13 COM:0 MVG:2@?@d@
+CCCC_Member@anonymous@CountAdminComplains@@(complaints)@
+CCCC_MemExt@anonymous@CountAdminComplains@@(complaints)@SummaryGenerator.h@51@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@anonymous@CountITComplains@@(...)@
+CCCC_MemExt@anonymous@CountITComplains@@(...)@ControllerFunctions.h@225@definition@F????@LOC:13 COM:0 MVG:2@?@d@
+CCCC_Member@anonymous@CountITComplains@@(complaints)@
+CCCC_MemExt@anonymous@CountITComplains@@(complaints)@SummaryGenerator.h@49@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@anonymous@CreateUser@@()@
+CCCC_MemExt@anonymous@CreateUser@@()@Manager.h@28@definition@FT??0@LOC:4 COM:1 MVG:1@0@d@
+CCCC_Member@anonymous@DirectorInputValidator@@(int)@
+CCCC_MemExt@anonymous@DirectorInputValidator@@(int)@ControllerFunctions.h@67@definition@F????@LOC:10 COM:0 MVG:4@?@d@
+CCCC_Member@anonymous@DirectorUI@@()@
+CCCC_MemExt@anonymous@DirectorUI@@()@ControllerFunctions.h@60@definition@F????@LOC:7 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@EmpSetterByCiD@@(...)@
+CCCC_MemExt@anonymous@EmpSetterByCiD@@(...)@ControllerFunctions.h@270@definition@F????@LOC:30 COM:0 MVG:6@?@d@
+CCCC_Member@anonymous@ErrorMessage@@()@
+CCCC_MemExt@anonymous@ErrorMessage@@()@ControllerFunctions.h@111@definition@F????@LOC:6 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@File@@(...)@
+CCCC_MemExt@anonymous@File@@(...)@Teacher.h@51@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@anonymous@InputValidator@@(int)@
+CCCC_MemExt@anonymous@InputValidator@@(int)@ControllerFunctions.h@30@definition@F????@LOC:10 COM:0 MVG:3@?@d@
+CCCC_Member@anonymous@ManagerInputValidator@@(int)@
+CCCC_MemExt@anonymous@ManagerInputValidator@@(int)@ControllerFunctions.h@86@definition@F????@LOC:10 COM:0 MVG:4@?@d@
+CCCC_Member@anonymous@ManagerUI@@()@
+CCCC_MemExt@anonymous@ManagerUI@@()@ControllerFunctions.h@78@definition@F????@LOC:7 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@PerformAction@@(int)@
+CCCC_MemExt@anonymous@PerformAction@@(int)@Manager.h@36@definition@FT??0@LOC:3 COM:1 MVG:0@0@d@
+CCCC_Member@anonymous@SetterByID@@(int)@
+CCCC_MemExt@anonymous@SetterByID@@(int)@Employee.h@95@definition@FT??0@LOC:34 COM:0 MVG:11@0@d@
+CCCC_Member@anonymous@Sleep@@(...)@
+CCCC_MemExt@anonymous@Sleep@@(...)@SummaryGenerator.h@50@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_MemExt@anonymous@Sleep@@(...)@SummaryGenerator.h@52@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_MemExt@anonymous@Sleep@@(...)@SummaryGenerator.h@54@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@anonymous@StartingUI@@()@
+CCCC_MemExt@anonymous@StartingUI@@()@ControllerFunctions.h@20@definition@F????@LOC:10 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@TeacherInputValidator@@(int)@
+CCCC_MemExt@anonymous@TeacherInputValidator@@(int)@ControllerFunctions.h@49@definition@F????@LOC:10 COM:0 MVG:4@?@d@
+CCCC_Member@anonymous@TeacherUI@@()@
+CCCC_MemExt@anonymous@TeacherUI@@()@ControllerFunctions.h@41@definition@F????@LOC:7 COM:0 MVG:0@?@d@
+CCCC_Member@anonymous@ValidateUser@@(string,string)@
+CCCC_MemExt@anonymous@ValidateUser@@(string,string)@Employee.h@53@definition@FT??0@LOC:36 COM:0 MVG:14@0@d@
+CCCC_MemExt@anonymous@ValidateUser@@(string,string)@Manager.h@91@definition@FT??0@LOC:38 COM:0 MVG:13@0@d@
+CCCC_Member@anonymous@WelcomeUI@@()@
+CCCC_MemExt@anonymous@WelcomeUI@@()@ControllerFunctions.h@97@definition@F????@LOC:14 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@convertDate@@(const string &,int &,int &,int &)@
+CCCC_MemExt@anonymous@convertDate@@(const string &,int &,int &,int &)@ControllerFunctions.h@171@definition@F????@LOC:6 COM:2 MVG:0@?@d@
+CCCC_Member@anonymous@getAssignedDate@@(int)@
+CCCC_MemExt@anonymous@getAssignedDate@@(int)@ControllerFunctions.h@138@definition@F????@LOC:26 COM:0 MVG:6@?@d@
+CCCC_Member@anonymous@getDept@@()@
+CCCC_MemExt@anonymous@getDept@@()@Manager.h@24@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@anonymous@getSalary@@()@
+CCCC_MemExt@anonymous@getSalary@@()@Employee.h@45@definition@FT??0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@anonymous@getUserType@@()@
+CCCC_MemExt@anonymous@getUserType@@()@Employee.h@37@declaration@TT??0@LOC:0 COM:0 MVG:0@0@D@
+CCCC_MemExt@anonymous@getUserType@@()@Manager.h@87@declaration@TT??0@LOC:0 COM:0 MVG:0@0@D@
+CCCC_Member@anonymous@main@@()@
+CCCC_MemExt@anonymous@main@@()@ComplaintManagementSystem.cpp@23@definition@F????@LOC:162 COM:10 MVG:34@?@d@
+CCCC_Member@anonymous@pushX@@(int)@
+CCCC_MemExt@anonymous@pushX@@(int)@ControllerFunctions.h@15@definition@F????@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@anonymous@readComplaintsFromFile@@(...)@
+CCCC_MemExt@anonymous@readComplaintsFromFile@@(...)@ControllerFunctions.h@180@definition@F????@LOC:37 COM:0 MVG:6@?@d@
+CCCC_Member@anonymous@setDept@@(string)@
+CCCC_MemExt@anonymous@setDept@@(string)@Manager.h@32@definition@FT??0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@anonymous@setEmployeeID@@(int)@
+CCCC_MemExt@anonymous@setEmployeeID@@(int)@Employee.h@41@definition@FT??0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@anonymous@setManagerByDept@@(char)@
+CCCC_MemExt@anonymous@setManagerByDept@@(char)@Manager.h@40@definition@FT??0@LOC:38 COM:0 MVG:4@0@d@
+CCCC_Member@anonymous@setSalary@@(int)@
+CCCC_MemExt@anonymous@setSalary@@(int)@Employee.h@49@definition@FT??0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@anonymous@stateToString@@(State)@
+CCCC_MemExt@anonymous@stateToString@@(State)@Complaint.h@23@definition@F???2@LOC:10 COM:0 MVG:5@2@d@
+CCCC_Member@anonymous@writeToFile@@(existingData,fileN)@
+CCCC_MemExt@anonymous@writeToFile@@(existingData,fileN)@ManagerRemoval.h@29@declaration@F???0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_UseRel@Department@Account@
+CCCC_UseExt@Department@Account@Account.h@5@inheritance@????0@*@0@I@
+CCCC_UseRel@Department@Admin@
+CCCC_UseExt@Department@Admin@Admin.h@4@inheritance@????0@*@0@I@
+CCCC_UseRel@User@Administrator@
+CCCC_UseExt@User@Administrator@Administrator.h@19@inheritance@????0@*@0@I@
+CCCC_UseRel@IReportGenerator@ComplaintDetails@
+CCCC_UseExt@IReportGenerator@ComplaintDetails@ComplaintDetails.h@14@inheritance@????0@*@0@I@
+CCCC_UseRel@Complaint@Department@
+CCCC_UseExt@Complaint@Department@Department.h@15@has by reference@????2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseRel@Employee@Department@
+CCCC_UseExt@Employee@Department@Department.h@16@has by value@????2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@Manager@Department@
+CCCC_UseExt@Manager@Department@Department.h@14@has by value@????2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@string@Department@
+CCCC_UseExt@string@Department@Department.h@12@has by value@????2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@User@Director@
+CCCC_UseExt@User@Director@Director.h@17@inheritance@????0@*@0@I@
+CCCC_UseRel@User@Employee@
+CCCC_UseExt@User@Employee@Employee.h@9@inheritance@????0@*@0@I@
+CCCC_UseRel@IUserAddition@EmployeeAddition@
+CCCC_UseExt@IUserAddition@EmployeeAddition@EmployeeAddition.h@5@inheritance@????0@*@0@I@
+CCCC_UseRel@IUserRemoval@EmployeeRemoval@
+CCCC_UseExt@IUserRemoval@EmployeeRemoval@EmployeeRemoval.h@11@inheritance@????0@*@0@I@
+CCCC_UseRel@Department@InformationTechnology@
+CCCC_UseExt@Department@InformationTechnology@IT.h@5@inheritance@????0@*@0@I@
+CCCC_UseRel@User@Manager@
+CCCC_UseExt@User@Manager@Manager.h@11@inheritance@????0@*@0@I@
+CCCC_UseRel@string@Manager@
+CCCC_UseExt@string@Manager@Manager.h@13@has by value@????0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseRel@IUserAddition@ManagerAddition@
+CCCC_UseExt@IUserAddition@ManagerAddition@ManagerAddition.h@4@inheritance@????0@*@0@I@
+CCCC_UseRel@IUserRemoval@ManagerRemoval@
+CCCC_UseExt@IUserRemoval@ManagerRemoval@ManagerRemoval.h@7@inheritance@????0@*@0@I@
+CCCC_UseRel@IReportGenerator@SummaryGenerator@
+CCCC_UseExt@IReportGenerator@SummaryGenerator@SummaryGenerator.h@12@inheritance@????0@*@0@I@
+CCCC_UseRel@Complaint@System@
+CCCC_UseExt@Complaint@System@system.h@24@has by reference@?T??2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseRel@Department@System@
+CCCC_UseExt@Department@System@system.h@22@has by reference@?T??2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseRel@User@System@
+CCCC_UseExt@User@System@system.h@23@has by reference@?T??2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseRel@string@System@
+CCCC_UseExt@string@System@system.h@69@pass by reference@FT??0@*@0@p@
+CCCC_UseExt@string@System@system.h@69@pass by reference@FT??0@*@0@p@
+CCCC_UseRel@Complaint@Teacher@
+CCCC_UseExt@Complaint@Teacher@Teacher.h@14@has by reference@????0@LOC:0 COM:0 MVG:0@0@h@
+CCCC_UseExt@Complaint@Teacher@Teacher.h@15@has by reference@????0@LOC:0 COM:0 MVG:0@0@h@
+CCCC_UseRel@User@Teacher@
+CCCC_UseExt@User@Teacher@Teacher.h@11@inheritance@????0@*@0@I@
+CCCC_UseRel@string@Teacher@
+CCCC_UseExt@string@Teacher@Teacher.h@13@has by value@????0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@Teacher@Teacher.h@33@pass by value@F???0@*@0@P@
+CCCC_UseRel@IUserAddition@TeacherAddition@
+CCCC_UseExt@IUserAddition@TeacherAddition@TeacherAddition.h@10@inheritance@????0@*@0@I@
+CCCC_UseRel@IUserRemoval@TeacherRemoval@
+CCCC_UseExt@IUserRemoval@TeacherRemoval@TeacherRemoval.h@11@inheritance@????0@*@0@I@
+CCCC_RejExt@Account.h@1@<file scope items>@FT??0@LOC:0 COM:0 MVG:0@0@r@
+CCCC_RejExt@Admin.h@1@<file scope items>@FT??0@LOC:1 COM:0 MVG:0@0@r@
+CCCC_RejExt@ComplaintManagementSystem.cpp@1@<file scope items>@F????@LOC:2 COM:5 MVG:0@?@r@
+CCCC_RejExt@Date.h@1@<file scope items>@T???2@LOC:1 COM:0 MVG:0@2@r@
+CCCC_RejExt@Department.h@1@<file scope items>@F???2@LOC:3 COM:0 MVG:0@2@r@
+CCCC_RejExt@Employee.h@34@cout << " @FT??0@LOC:1 COM:0 MVG:0@0@r@
+CCCC_RejExt@Employee.h@35@cout << " @FT??0@LOC:1 COM:0 MVG:0@0@r@
+CCCC_RejExt@Employee.h@37@override { return @TT??0@LOC:4 COM:0 MVG:1@0@r@
+CCCC_RejExt@IT.h@1@<file scope items>@FT??0@LOC:1 COM:0 MVG:0@0@r@
+CCCC_RejExt@IUserAddition.h@1@<file scope items>@F??T2@LOC:1 COM:0 MVG:0@2@r@
+CCCC_RejExt@IUserRemoval.h@1@<file scope items>@F??T2@LOC:1 COM:0 MVG:0@2@r@
+CCCC_RejExt@Manager.h@87@override { return @TT??0@LOC:4 COM:0 MVG:1@0@r@
+CCCC_RejExt@ManagerAddition.h@20@newData = takeUserInput @F???0@LOC:1 COM:0 MVG:0@0@r@
+CCCC_RejExt@ManagerRemoval.h@31@cout << " @F???0@LOC:1 COM:0 MVG:0@0@r@
+CCCC_RejExt@Report.h@1@<file scope items>@F??T2@LOC:1 COM:0 MVG:0@2@r@
+CCCC_RejExt@system.h@1@<file scope items>@FT???@LOC:2 COM:0 MVG:0@?@r@
+CCCC_RejExt@ControllerFunctions.h@1@<file scope items>@F????@LOC:2 COM:0 MVG:0@?@r@

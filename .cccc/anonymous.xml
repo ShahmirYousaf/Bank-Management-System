@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module anonymous-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="611" level="1" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="128" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="2" />
+<lines_of_code value="14" level="0" />
+<lines_of_code_per_member_function value="********" level="2" />
+<lines_of_code_per_line_of_comment value="43.643" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="9.143" level="1" />
+<weighted_methods_per_class_unity value="40" level="0" />
+<weighted_methods_per_class_visibility value="17" level="0" />
+<depth_of_inheritance_tree value="0" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="0" level="0" />
+<IF4 value="0" level="0" />
+<IF4_per_member_function value="********" level="0" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+</module_detail>
+<procedural_detail>
+<member_function>
+<name>AdminInputValidator(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="127" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="3" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>AdminUI()</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="117" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>ClearScreen()</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="11" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>CountAccountComplains(...)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="255" />
+</extent>
+<lines_of_code value="13" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>CountAccountComplains(complaints)</name>
+<extent>
+<description>declaration</description>
+<source_reference file="SummaryGenerator.h" line="53" />
+</extent>
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>CountAdminComplains(...)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="240" />
+</extent>
+<lines_of_code value="13" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>CountAdminComplains(complaints)</name>
+<extent>
+<description>declaration</description>
+<source_reference file="SummaryGenerator.h" line="51" />
+</extent>
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>CountITComplains(...)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="225" />
+</extent>
+<lines_of_code value="13" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>CountITComplains(complaints)</name>
+<extent>
+<description>declaration</description>
+<source_reference file="SummaryGenerator.h" line="49" />
+</extent>
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>CreateUser()</name>
+<extent>
+<description>definition</description>
+<source_reference file="Manager.h" line="28" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="1" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>DirectorInputValidator(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="67" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>DirectorUI()</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="60" />
+</extent>
+<lines_of_code value="7" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>EmpSetterByCiD(...)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="270" />
+</extent>
+<lines_of_code value="30" level="0" />
+<McCabes_cyclomatic_complexity value="6" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>ErrorMessage()</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="111" />
+</extent>
+<lines_of_code value="6" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>File(...)</name>
+<extent>
+<description>declaration</description>
+<source_reference file="Teacher.h" line="51" />
+</extent>
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>InputValidator(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="30" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="3" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>ManagerInputValidator(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="86" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>ManagerUI()</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="78" />
+</extent>
+<lines_of_code value="7" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>PerformAction(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Manager.h" line="36" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="1" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>SetterByID(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Employee.h" line="95" />
+</extent>
+<lines_of_code value="34" level="1" />
+<McCabes_cyclomatic_complexity value="11" level="1" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>Sleep(...)</name>
+<extent>
+<description>declaration</description>
+<source_reference file="SummaryGenerator.h" line="50" />
+</extent>
+<extent>
+<description>declaration</description>
+<source_reference file="SummaryGenerator.h" line="52" />
+</extent>
+<extent>
+<description>declaration</description>
+<source_reference file="SummaryGenerator.h" line="54" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>StartingUI()</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="20" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>TeacherInputValidator(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="49" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>TeacherUI()</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="41" />
+</extent>
+<lines_of_code value="7" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>ValidateUser(string,string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Employee.h" line="53" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="Manager.h" line="91" />
+</extent>
+<lines_of_code value="74" level="1" />
+<McCabes_cyclomatic_complexity value="27" level="1" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>WelcomeUI()</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="97" />
+</extent>
+<lines_of_code value="14" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>convertDate(const string &amp;,int &amp;,int &amp;,int &amp;)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="171" />
+</extent>
+<lines_of_code value="6" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>getAssignedDate(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="138" />
+</extent>
+<lines_of_code value="26" level="0" />
+<McCabes_cyclomatic_complexity value="6" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>getDept()</name>
+<extent>
+<description>definition</description>
+<source_reference file="Manager.h" line="24" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>getSalary()</name>
+<extent>
+<description>definition</description>
+<source_reference file="Employee.h" line="45" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>getUserType()</name>
+<extent>
+<description>declaration</description>
+<source_reference file="Employee.h" line="37" />
+</extent>
+<extent>
+<description>declaration</description>
+<source_reference file="Manager.h" line="87" />
+</extent>
+<lines_of_code value="0" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>main()</name>
+<extent>
+<description>definition</description>
+<source_reference file="ComplaintManagementSystem.cpp" line="23" />
+</extent>
+<lines_of_code value="162" level="2" />
+<McCabes_cyclomatic_complexity value="34" level="2" />
+<lines_of_comment value="10" level="0" />
+<lines_of_code_per_line_of_comment value="16.200" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="3.400" level="0" />
+</member_function>
+<member_function>
+<name>pushX(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="15" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>readComplaintsFromFile(...)</name>
+<extent>
+<description>definition</description>
+<source_reference file="ControllerFunctions.h" line="180" />
+</extent>
+<lines_of_code value="37" level="1" />
+<McCabes_cyclomatic_complexity value="6" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>setDept(string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Manager.h" line="32" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>setEmployeeID(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Employee.h" line="41" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>setManagerByDept(char)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Manager.h" line="40" />
+</extent>
+<lines_of_code value="38" level="1" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>setSalary(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Employee.h" line="49" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>stateToString(State)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Complaint.h" line="23" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="5" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="0" />
+</member_function>
+<member_function>
+<name>writeToFile(existingData,fileN)</name>
+<extent>
+<description>declaration</description>
+<source_reference file="ManagerRemoval.h" line="29" />
+</extent>
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>anonymous</name>
+<client_module>
+</client_module>
+<supplier_module>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>

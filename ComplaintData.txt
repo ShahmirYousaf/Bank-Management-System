@@ -1,0 +1,11 @@
+1,2,Assalam o Alaikum,1,I,9-12-2014,0
+2,3,Wa-Salam,3,a,25-5-2023,0
+3,2,How are you,4,A,12-12-2020,1
+4,2,computer is not working,1,I,8-12-2023,0
+5,2,My Pay is not coming,1,a,8-12-2023,0
+6,2,Internet not working,2,I,8-12-2023,0
+7,2,Timetable issues,2,A,10-12-2023,0
+8,4,Projector Issue in CS-5,1,A,10-12-2023,0
+9,3,Class Schedule not recieved,2,A,10-12-2023,0
+10,5,I need laptop,1,I,10-12-2023,0
+11,2,net issue,1,I,10-12-2023,0

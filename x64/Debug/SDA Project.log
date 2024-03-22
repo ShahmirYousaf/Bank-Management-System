@@ -1,0 +1,7 @@
+﻿  ComplaintManagementSystem.cpp
+C:\Users\shahm\source\repos\SDA Project\SDA Project\Manager.h(764,15): warning C4101: 'ad': unreferenced local variable
+C:\Users\shahm\source\repos\SDA Project\SDA Project\Manager.h(764,11): warning C4101: 'de': unreferenced local variable
+C:\Users\shahm\source\repos\SDA Project\SDA Project\Manager.h(764,7): warning C4101: 'ai': unreferenced local variable
+C:\Users\shahm\source\repos\SDA Project\SDA Project\Complaint.h(34): warning C4715: 'Complaint::stateToString': not all control paths return a value
+C:\Users\shahm\source\repos\SDA Project\SDA Project\Complaint.h(205): warning C4715: 'Complaint::getState': not all control paths return a value
+  SDA Project.vcxproj -> C:\Users\shahm\source\repos\SDA Project\x64\Debug\SDA Project.exe

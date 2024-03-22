@@ -1,0 +1,7 @@
+1,aamirRaheem123,fast123,Aamer Raheem,50,03009678787,Asst Professor
+2,Razi786,Razi123456,Razi Ud Din,27,03365720011,Lecturer
+3,UzairNaqvi90,Uzair23,Uzair Naqvi,32,03219876543,Lecturer
+4,Naveed1,n123,Naveed,43,03009876543,Lecturer
+5,Saifullah23,Saif_9,Saif Ullah,32,03126411309,Lecturer
+6,Muzammal_18,pk65,Muzammal Abbas,24,03107611605,Lab Instructor
+8,aleena12,al123,Aleena Ahmad,34,03365517453,Lecturer
