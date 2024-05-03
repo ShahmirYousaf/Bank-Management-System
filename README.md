@@ -24,6 +24,8 @@ The Complaint Management System is designed to streamline the process of handlin
   
 - **Object-Oriented Programming (OOP)**: OOP principles are employed to organize the codebase into classes and objects, enhancing modularity and reusability.
 
+- **SOLID Design Principles**: The project follows SOLID principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) to ensure a scalable, maintainable, and extensible design.
+
 - **Software Design Principles**: Design principles such as encapsulation, abstraction, inheritance, and polymorphism are applied to ensure a well-structured and maintainable codebase.
 
 ## Getting Started
